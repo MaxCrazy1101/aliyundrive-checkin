@@ -1,5 +1,6 @@
 # aliyundrive-checkin
 - aliyundrive-checkin是一个定时自动签到的python程序
+- 2024/02/08： 优化了action格式, 并添加了python依赖包的缓存 [[@hughware](https://github.com/hughware)]
 - 2023/11/09： Bump actions/checkout to v4 [[@Goooler](https://github.com/Goooler)]
 - 2023/11/12: 增加对青龙面板的支持 [[@lelemka0](https://github.com/lelemka0)]
 - 2023/11/09: 修复漏签时出现的问题 [[@cibimo](https://github.com/cibimo)]
